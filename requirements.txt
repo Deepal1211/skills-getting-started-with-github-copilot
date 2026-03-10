@@ -1,3 +1,5 @@
+# Add pytest for running backend tests
+pytest
 fastapi
 uvicorn
 httpx
